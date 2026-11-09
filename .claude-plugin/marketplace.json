@@ -1,0 +1,19 @@
+{
+  "name": "electroatlas",
+  "owner": { "name": "Электроатлас", "email": "info@electroatlas.ru", "url": "https://electroatlas.ru" },
+  "metadata": {
+    "description": "Электроатлас для агентов: каталог электромобилей в России через MCP.",
+    "version": "1.3.0"
+  },
+  "plugins": [
+    {
+      "name": "electroatlas",
+      "displayName": "Электроатлас",
+      "description": "Цены электромобилей в России с источником, зимний запас хода, сравнение, продажи, дилеры, утильсбор и субсидия.",
+      "source": "./plugins/electroatlas",
+      "version": "1.3.0",
+      "homepage": "https://electroatlas.ru",
+      "category": "data"
+    }
+  ]
+}

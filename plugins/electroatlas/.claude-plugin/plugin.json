@@ -1,0 +1,16 @@
+{
+  "name": "electroatlas",
+  "displayName": "Электроатлас",
+  "version": "1.3.0",
+  "description": "Электромобили и гибриды в России: цены в рублях с источником, паспортный и зимний запас хода, сравнение, продажи по моделям, дилеры по городам, утильсбор, НДС и субсидия. Подключает MCP-сервер electroatlas.ru и навык, как им пользоваться.",
+  "author": { "name": "Электроатлас", "url": "https://electroatlas.ru", "email": "info@electroatlas.ru" },
+  "homepage": "https://electroatlas.ru",
+  "repository": "https://github.com/electroatlas/mcp",
+  "license": "MIT",
+  "keywords": ["электромобили", "electric-vehicles", "russia", "mcp", "ev"],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://electroatlas.ru/legal/privacy",
+  "termsOfServiceUrl": "https://electroatlas.ru/legal/terms",
+  "supportUrl": "https://electroatlas.ru/legal/corrections",
+  "documentationUrl": "https://electroatlas.ru/llms.txt"
+}

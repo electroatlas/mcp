@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Сообщить об ошибке в данных
+    url: https://electroatlas.ru/legal/corrections
+    about: A wrong figure on the site or in a tool answer - the fastest way to get it fixed.

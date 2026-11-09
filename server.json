@@ -1,0 +1,41 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ru.electroatlas/catalog",
+  "title": "Электроатлас",
+  "description": "Electric cars in Russia: rouble prices with sources, winter range, sales, dealers, EV rules.",
+  "version": "1.3.0",
+  "websiteUrl": "https://electroatlas.ru",
+  "repository": {
+    "url": "https://github.com/electroatlas/mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://electroatlas.ru/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://electroatlas.ru/icon-192.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "192x192"
+      ]
+    },
+    {
+      "src": "https://electroatlas.ru/logo/electroatlas-badge-light.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://electroatlas.ru/mcp"
+    }
+  ]
+}

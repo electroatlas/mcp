@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "electroatlas": {
+      "type": "http",
+      "url": "https://electroatlas.ru/mcp"
+    }
+  }
+}
