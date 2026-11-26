@@ -27,5 +27,9 @@
   "Replit": {
     "url": "https://replit.com/integrations?mcp=eyJkaXNwbGF5TmFtZSI6ItCt0LvQtdC60YLRgNC%2B0JDRgtC70LDRgSIsImJhc2VVcmwiOiJodHRwczovL2VsZWN0cm9hdGxhcy5ydS9tY3AifQ%3D%3D",
     "source": "https://docs.replit.com/features/mcp/overview#share-your-own-install-link"
+  },
+  "LM Studio": {
+    "url": "lmstudio://add_mcp?name=electroatlas&config=eyJ1cmwiOiJodHRwczovL2VsZWN0cm9hdGxhcy5ydS9tY3AifQ%3D%3D",
+    "source": "https://lmstudio.ai/docs/app/mcp/deeplink"
   }
 }
