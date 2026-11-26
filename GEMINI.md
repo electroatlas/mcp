@@ -13,10 +13,11 @@
 | `compare_models` | Сравнение двух моделей |
 | `get_sales` | Продажи по моделям |
 | `find_dealers` | Где купить: дилеры по городам |
-| `list_regulations` | Регуляторика РФ |
-| `get_regulation` | Регуляция целиком |
+| `get_regulation` | Законы и сборы |
 | `calc_import_fees` | Утильсбор и растаможка |
 | `get_ranking` | Рейтинг и части балла |
 | `get_changes` | Изменения цен, моделей и законов |
 | `pick_car` | Подбор машины под поездки |
 | `calc_ownership` | Годовые расходы и цена зарядки |
+| `find_charging` | Где зарядиться |
+| `send_feedback` | Сообщить Электроатласу |

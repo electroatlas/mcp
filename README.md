@@ -4,9 +4,9 @@
 
 Сравните электромобили и гибриды в России. Проверьте цены в рублях, паспортный и зимний запас хода, продажи, дилеров и сборы при ввозе. Ответы на русском со ссылками на источники и страницы каталога.
 
-- **MCP** `https://electroatlas.ru/mcp` (Streamable HTTP). Без входа и ключа. Только чтение.
-- **MCP Registry** `ru.electroatlas/catalog` · `1.5.0`
-- **Навыки** [`electroatlas`](skills/electroatlas/SKILL.md)
+- **MCP** `https://electroatlas.ru/mcp` (Streamable HTTP). No sign-in or API key. Audit and feedback tools can submit data.
+- **MCP Registry** `ru.electroatlas/catalog` · `1.6.0`
+- **Навыки** [`buy-electric-car`](skills/buy-electric-car/SKILL.md), [`electroatlas`](skills/electroatlas/SKILL.md)
 
 ## Инструменты
 
@@ -19,13 +19,14 @@
 | `compare_models` | Сравнение двух моделей |
 | `get_sales` | Продажи по моделям |
 | `find_dealers` | Где купить: дилеры по городам |
-| `list_regulations` | Регуляторика РФ |
-| `get_regulation` | Регуляция целиком |
+| `get_regulation` | Законы и сборы |
 | `calc_import_fees` | Утильсбор и растаможка |
 | `get_ranking` | Рейтинг и части балла |
 | `get_changes` | Изменения цен, моделей и законов |
 | `pick_car` | Подбор машины под поездки |
 | `calc_ownership` | Годовые расходы и цена зарядки |
+| `find_charging` | Где зарядиться |
+| `send_feedback` | Сообщить Электроатласу |
 
 ## Установка в одно нажатие
 

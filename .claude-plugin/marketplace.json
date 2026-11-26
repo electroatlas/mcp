@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Compare EVs in Russia by rouble price and winter range. Look up dealers, sales and import rules.",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   "plugins": [
     {
       "name": "electroatlas",
       "source": "./plugins/electroatlas",
       "description": "Compare electric cars and plug-in hybrids in Russia. Look up prices in roubles, rated and winter range, sales, dealers and import fees. Answers are in Russian and link to the catalog with sources.",
-      "version": "1.5.0"
+      "version": "1.6.0"
     }
   ]
 }

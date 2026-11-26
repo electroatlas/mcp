@@ -3,7 +3,7 @@
   "name": "ru.electroatlas/catalog",
   "title": "Электроатлас",
   "description": "Electric cars in Russia: rouble prices with sources, winter range, sales, dealers, EV rules.",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "websiteUrl": "https://electroatlas.ru",
   "repository": {
     "url": "https://github.com/electroatlas/mcp",
