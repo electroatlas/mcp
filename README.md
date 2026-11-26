@@ -57,7 +57,7 @@ gemini extensions install https://github.com/electroatlas/mcp
 | Cursor | [plugin.json](.cursor-plugin/plugin.json) |
 | Kiro | [POWER.md](kiro/electroatlas/POWER.md) |
 | Kilo | [MCP.yaml](MCP.yaml) |
-| Cline | [entry.json](entry.json) |
+| Cline | [entry.json](entry.json) · [llms-install.md](llms-install.md) |
 | Devin | [plugin.json](devin/electroatlas/.devin-plugin/plugin.json) |
 | Agent Plugins | [plugin.json](plugin.json) |
 | MCP Registry | [server.json](server.json) |
