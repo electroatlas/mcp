@@ -1,0 +1,21 @@
+{
+  "name": "electroatlas",
+  "displayName": "ЭлектроАтлас",
+  "description": "Compare EVs in Russia by rouble price and winter range. Look up dealers, sales and import rules",
+  "shortDescription": "Electric cars in Russia",
+  "homepage": "https://electroatlas.ru",
+  "repository": "https://github.com/electroatlas/mcp",
+  "logo": "logo.png",
+  "keywords": [
+    "electric vehicles",
+    "hybrids",
+    "winter range",
+    "EV prices",
+    "электромобили"
+  ],
+  "mcpServers": {
+    "electroatlas": {
+      "url": "https://electroatlas.ru/mcp"
+    }
+  }
+}

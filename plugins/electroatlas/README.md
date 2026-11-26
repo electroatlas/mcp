@@ -1,8 +1,7 @@
-# Плагин Электроатлас
+# ЭлектроАтлас
 
-Каталог электромобилей в России внутри Claude Code и Cursor: MCP-сервер `electroatlas` (`https://electroatlas.ru/mcp`, только чтение,
-без входа) и навык `electroatlas` - какой инструмент звать и как цитировать данные.
+Сравните электромобили и гибриды в России. Проверьте цены в рублях, паспортный и зимний запас хода, продажи, дилеров и сборы при ввозе. Ответы на русском со ссылками на источники и страницы каталога.
 
-Установка в Claude Code:
+MCP: `https://electroatlas.ru/mcp`. Privacy: https://electroatlas.ru/legal/privacy.
 
-    /plugin install electroatlas --marketplace electroatlas/mcp
+Install in Claude Code: `claude plugin install electroatlas --marketplace electroatlas/mcp`.

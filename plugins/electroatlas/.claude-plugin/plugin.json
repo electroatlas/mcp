@@ -1,16 +1,25 @@
 {
   "name": "electroatlas",
-  "displayName": "Электроатлас",
-  "version": "1.3.0",
-  "description": "Электромобили и гибриды в России: цены в рублях с источником, паспортный и зимний запас хода, сравнение, продажи по моделям, дилеры по городам, утильсбор, НДС и субсидия. Подключает MCP-сервер electroatlas.ru и навык, как им пользоваться.",
-  "author": { "name": "Электроатлас", "url": "https://electroatlas.ru", "email": "info@electroatlas.ru" },
+  "version": "1.5.0",
+  "description": "Compare electric cars and plug-in hybrids in Russia. Look up prices in roubles, rated and winter range, sales, dealers and import fees. Answers are in Russian and link to the catalog with sources.",
+  "author": {
+    "name": "ЭлектроАтлас",
+    "email": "info@electroatlas.ru",
+    "url": "https://electroatlas.ru"
+  },
   "homepage": "https://electroatlas.ru",
   "repository": "https://github.com/electroatlas/mcp",
   "license": "MIT",
-  "keywords": ["электромобили", "electric-vehicles", "russia", "mcp", "ev"],
+  "keywords": [
+    "electric vehicles",
+    "hybrids",
+    "winter range",
+    "EV prices",
+    "электромобили"
+  ],
   "icon": "./.claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://electroatlas.ru/legal/privacy",
-  "termsOfServiceUrl": "https://electroatlas.ru/legal/terms",
+  "documentationUrl": "https://github.com/electroatlas/mcp",
   "supportUrl": "https://electroatlas.ru/legal/corrections",
-  "documentationUrl": "https://electroatlas.ru/llms.txt"
+  "privacyPolicyUrl": "https://electroatlas.ru/legal/privacy",
+  "termsOfServiceUrl": "https://electroatlas.ru/legal/terms"
 }

@@ -1,0 +1,31 @@
+{
+  "Claude": {
+    "url": "https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%90%D1%82%D0%BB%D0%B0%D1%81&connectorUrl=https%3A%2F%2Felectroatlas.ru%2Fmcp",
+    "source": "https://github.com/anthropics/claude-ai-mcp/issues/74"
+  },
+  "Cursor": {
+    "url": "https://cursor.com/install-mcp?name=electroatlas&config=eyJ1cmwiOiJodHRwczovL2VsZWN0cm9hdGxhcy5ydS9tY3AifQ%3D%3D",
+    "source": "https://cursor.com/docs/mcp/install-links",
+    "deeplink": "cursor://anysphere.cursor-deeplink/mcp/install?name=electroatlas&config=eyJ1cmwiOiJodHRwczovL2VsZWN0cm9hdGxhcy5ydS9tY3AifQ%3D%3D"
+  },
+  "VS Code": {
+    "url": "https://vscode.dev/redirect?url=vscode%3Amcp%2Finstall%3F%257B%2522name%2522%253A%2522electroatlas%2522%252C%2522type%2522%253A%2522http%2522%252C%2522url%2522%253A%2522https%253A%252F%252Felectroatlas.ru%252Fmcp%2522%257D",
+    "source": "https://code.visualstudio.com/api/extension-guides/ai/mcp#create-an-mcp-installation-or-lookup-url"
+  },
+  "Kiro": {
+    "url": "https://kiro.dev/launch/mcp/add?name=electroatlas&config=%7B%22url%22%3A%22https%3A%2F%2Felectroatlas.ru%2Fmcp%22%7D",
+    "source": "https://kiro.dev/docs/mcp/share/"
+  },
+  "Goose": {
+    "url": "goose://extension?url=https%3A%2F%2Felectroatlas.ru%2Fmcp&type=streamable_http&timeout=300&id=electroatlas&name=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%90%D1%82%D0%BB%D0%B0%D1%81&description=Compare%20EVs%20in%20Russia%20by%20rouble%20price%20and%20winter%20range.%20Look%20up%20dealers%2C%20sales%20and%20import%20rules.",
+    "source": "https://goose-docs.ai/docs/getting-started/using-extensions/#deeplinks"
+  },
+  "Qoder": {
+    "url": "qoder://aicoding.aicoding-deeplink/mcp/add?name=electroatlas&config=JTdCJTIydXJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZlbGVjdHJvYXRsYXMucnUlMkZtY3AlMjIlN0Q%3D",
+    "source": "https://docs.qoder.com/user-guide/deeplink"
+  },
+  "Replit": {
+    "url": "https://replit.com/integrations?mcp=eyJkaXNwbGF5TmFtZSI6ItCt0LvQtdC60YLRgNC%2B0JDRgtC70LDRgSIsImJhc2VVcmwiOiJodHRwczovL2VsZWN0cm9hdGxhcy5ydS9tY3AifQ%3D%3D",
+    "source": "https://docs.replit.com/features/mcp/overview#share-your-own-install-link"
+  }
+}

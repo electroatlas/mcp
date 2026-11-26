@@ -1,0 +1,27 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "electroatlas",
+  "version": "1.5.0",
+  "description": "Compare electric cars and plug-in hybrids in Russia. Look up prices in roubles, rated and winter range, sales, dealers and import fees. Answers are in Russian and link to the catalog with sources.",
+  "author": {
+    "name": "ЭлектроАтлас",
+    "url": "https://electroatlas.ru"
+  },
+  "homepage": "https://electroatlas.ru",
+  "repository": "https://github.com/electroatlas/mcp",
+  "license": "MIT",
+  "keywords": [
+    "electric vehicles",
+    "hybrids",
+    "winter range",
+    "ev prices",
+    "электромобили"
+  ],
+  "displayName": "ЭлектроАтлас",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Сколько проезжает зимой Москвич 3е и откуда эта цифра?",
+    "Сравни Zeekr 001 и Li Auto L7 по цене и запасу хода.",
+    "Где купить Voyah Free в Казани?"
+  ]
+}
