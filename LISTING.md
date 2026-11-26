@@ -30,10 +30,16 @@
 
 **Description** Compare electric cars and plug-in hybrids in Russia. Look up prices in roubles, rated and winter range, sales, dealers and import fees. Answers are in Russian and link to the catalog with sources.
 
-## Example prompts
+## 5 вопросов, на которые отвечаем
 
-- Сколько проезжает зимой Москвич 3е и откуда эта цифра?
-- Сравни Zeekr 001 и Li Auto L7 по цене и запасу хода.
-- Где купить Voyah Free в Казани?
+- Сравни Zeekr 7X и Li L7
+- Сколько проедет Москвич 3е на одной зарядке?
+- Сколько утильсбор за электромобиль 300 л.с., новый, ввожу для себя?
+- Где купить Zeekr в Новосибирске?
+- Почему у Zeekr 001 такой балл? Из чего он складывается?
 
-## 5 вопросов отвечаем, 3 не отвечаем
+## 3 вопроса, на которые не отвечаем
+
+- Какая погода в Казани на выходных?
+- Как приготовить борщ на шестерых?
+- Почему у меня телефон быстро разряжается на морозе?

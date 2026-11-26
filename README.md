@@ -53,7 +53,7 @@ gemini extensions install https://github.com/electroatlas/mcp
 | Claude | [marketplace.json](.claude-plugin/marketplace.json) |
 | ChatGPT / Codex | [plugin.json](openai/electroatlas/plugin.json) · [marketplace.json](.agents/plugins/marketplace.json) |
 | Antigravity | [plugin.json](antigravity/electroatlas/plugin.json) |
-| Gemini CLI | [gemini-extension.json](gemini-extension.json) |
+| Gemini CLI | [gemini-extension.json](gemini-extension.json) · [Навыки](skills/) |
 | Cursor | [plugin.json](.cursor-plugin/plugin.json) |
 | Kiro | [POWER.md](kiro/electroatlas/POWER.md) |
 | Kilo | [MCP.yaml](MCP.yaml) |
